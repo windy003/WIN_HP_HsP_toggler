@@ -70,4 +70,4 @@ def toggle_proxy():
 
 if __name__ == "__main__":
     toggle_proxy()
-    input("Press Enter to exit...")
+    input("版本:2025/7/23-01,Press Enter to exit...")
