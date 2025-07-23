@@ -1,0 +1,3 @@
+build/*
+dist/*
+proxy_toggler.spec
